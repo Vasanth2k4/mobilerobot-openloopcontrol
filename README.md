@@ -1,4 +1,4 @@
-![image](https://github.com/Vasanth2k4/mobilerobot-openloopcontrol/assets/147139769/9aa76de2-dc23-4bdf-a5aa-e7273ccc3f47)# MobileRobot-Openloopcontrol
+## MobileRobot-Openloopcontrol
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -92,13 +92,9 @@ if _name=='__main_':
 
 
 ## MobileRobot Movement Video:
-
+https://youtu.be/NmZDwi1Hzgs
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
